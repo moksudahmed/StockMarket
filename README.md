@@ -1,1 +1,2 @@
-# StockMarket data scrape for app
+# Stock Market data scrape for app
+# Develope by Python
