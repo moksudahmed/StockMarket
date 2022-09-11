@@ -1,3 +1,4 @@
+from pickle import TRUE
 import requests
 import sys
 import json
@@ -16,18 +17,18 @@ def connection():
     tabl = soup.find("table", class_="table")
     return tabl
 
-def write_json(ls_dict):
-    json_object = json.dumps(ls_dict, indent=4)
-    print(json_object)
-    # Writing to sample.json
-    with open("stockdata.json", "w") as outfile:
-        outfile.write(json_object)
-
 def remove_character(line):
     line = line.replace('\r', '')
     line = line.replace('\t', '')
     line = line.replace('\n', '')
     return line
+
+def write_json(ls_dict):
+    json_object = json.dumps(ls_dict, indent=4)
+   # print(json_object)
+    # Writing to sample.json
+    with open("stockdata.json", "w") as outfile:
+        outfile.write(json_object)
 
 def scrap():
     
@@ -66,17 +67,9 @@ def scrap():
                 #Generate a list of dictonary
                 ls_dict.append(ds)
             # Write a list to a JSON file
+           # json_object = json.dumps(ls_dict, indent=4)                    
+            print("Writing JSON data to file.....")
             write_json(ls_dict)
-        
     except:
         sys.exit("Faild to extract data")
-
-scrap()
-
-def setInterval(func,time):
-    e = threading.Event()
-    while not e.wait(time):
-        func()
-
-# using
-setInterval(scrap,10)
+    return ls_dict
