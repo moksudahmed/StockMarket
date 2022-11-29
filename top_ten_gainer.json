@@ -1,0 +1,92 @@
+[
+    {
+        "SL": "1",
+        "TRADING_CODE": "ADVENT",
+        "CLOSE": "26.1",
+        "HIGH": "26.1",
+        "LOW": "23.0",
+        "YCP": "23.8",
+        "CHANGE": "9.6639"
+    },
+    {
+        "SL": "2",
+        "TRADING_CODE": "RUPALILIFE",
+        "CLOSE": "79.5",
+        "HIGH": "80.1",
+        "LOW": "73.7",
+        "YCP": "75.1",
+        "CHANGE": "5.8589"
+    },
+    {
+        "SL": "3",
+        "TRADING_CODE": "METROSPIN",
+        "CLOSE": "45.6",
+        "HIGH": "45.9",
+        "LOW": "42.6",
+        "YCP": "43.1",
+        "CHANGE": "5.8005"
+    },
+    {
+        "SL": "4",
+        "TRADING_CODE": "BEACONPHAR",
+        "CLOSE": "290.3",
+        "HIGH": "293.0",
+        "LOW": "266.0",
+        "YCP": "275.8",
+        "CHANGE": "5.2574"
+    },
+    {
+        "SL": "5",
+        "TRADING_CODE": "SKICL",
+        "CLOSE": "55.5",
+        "HIGH": "56.1",
+        "LOW": "51.5",
+        "YCP": "52.8",
+        "CHANGE": "5.1136"
+    },
+    {
+        "SL": "6",
+        "TRADING_CODE": "EHL",
+        "CLOSE": "80.6",
+        "HIGH": "81.0",
+        "LOW": "75.0",
+        "YCP": "76.8",
+        "CHANGE": "4.9479"
+    },
+    {
+        "SL": "7",
+        "TRADING_CODE": "CLICL",
+        "CLOSE": "72.0",
+        "HIGH": "73.9",
+        "LOW": "63.7",
+        "YCP": "68.7",
+        "CHANGE": "4.8035"
+    },
+    {
+        "SL": "8",
+        "TRADING_CODE": "SEAPEARL",
+        "CLOSE": "183.8",
+        "HIGH": "190.0",
+        "LOW": "176.2",
+        "YCP": "175.9",
+        "CHANGE": "4.4912"
+    },
+    {
+        "SL": "9",
+        "TRADING_CODE": "EGEN",
+        "CLOSE": "63.0",
+        "HIGH": "63.9",
+        "LOW": "59.5",
+        "YCP": "60.3",
+        "CHANGE": "4.4776"
+    },
+    {
+        "SL": "10",
+        "TRADING_CODE": "PAPERPROC",
+        "CLOSE": "205.9",
+        "HIGH": "207.7",
+        "LOW": "195.1",
+        "YCP": "197.7",
+        "CHANGE": "4.1477"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SL": "1",
+        "TRADING_CODE": "ORIONINFU",
+        "CLOSE": "524.4",
+        "HIGH": "525.0",
+        "LOW": "524.4",
+        "YCP": "566.9",
+        "CHANGE": "-7.4969"
+    },
+    {
+        "SL": "2",
+        "TRADING_CODE": "SINOBANGLA",
+        "CLOSE": "62.2",
+        "HIGH": "63.8",
+        "LOW": "60.6",
+        "YCP": "67.1",
+        "CHANGE": "-7.3025"
+    },
+    {
+        "SL": "3",
+        "TRADING_CODE": "NAVANAPHAR",
+        "CLOSE": "90.6",
+        "HIGH": "92.4",
+        "LOW": "87.2",
+        "YCP": "96.2",
+        "CHANGE": "-5.8212"
+    },
+    {
+        "SL": "4",
+        "TRADING_CODE": "SONALIPAPR",
+        "CLOSE": "665.2",
+        "HIGH": "684.0",
+        "LOW": "650.0",
+        "YCP": "685.1",
+        "CHANGE": "-2.9047"
+    },
+    {
+        "SL": "5",
+        "TRADING_CODE": "BPML",
+        "CLOSE": "76.8",
+        "HIGH": "78.5",
+        "LOW": "71.6",
+        "YCP": "78.3",
+        "CHANGE": "-1.9157"
+    },
+    {
+        "SL": "6",
+        "TRADING_CODE": "PRAGATILIF",
+        "CLOSE": "111.3",
+        "HIGH": "113.9",
+        "LOW": "103.2",
+        "YCP": "113.4",
+        "CHANGE": "-1.8519"
+    },
+    {
+        "SL": "7",
+        "TRADING_CODE": "KOHINOOR",
+        "CLOSE": "448.6",
+        "HIGH": "450.0",
+        "LOW": "432.0",
+        "YCP": "455.5",
+        "CHANGE": "-1.5148"
+    },
+    {
+        "SL": "8",
+        "TRADING_CODE": "SQURPHARMA",
+        "CLOSE": "209.8",
+        "HIGH": "209.8",
+        "LOW": "209.8",
+        "YCP": "212.6",
+        "CHANGE": "-1.317"
+    },
+    {
+        "SL": "9",
+        "TRADING_CODE": "ISLAMIBANK",
+        "CLOSE": "32.7",
+        "HIGH": "33.0",
+        "LOW": "32.6",
+        "YCP": "33.0",
+        "CHANGE": "-0.9091"
+    },
+    {
+        "SL": "10",
+        "TRADING_CODE": "JAMUNAOIL",
+        "CLOSE": "167.9",
+        "HIGH": "168.9",
+        "LOW": "167.6",
+        "YCP": "168.7",
+        "CHANGE": "-0.4742"
+    }
+]
